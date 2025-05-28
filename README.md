@@ -1,27 +1,38 @@
-# House and Rainfall (OpenGL Python Project)
+# 🏠 House and Rainfall (Python + OpenGL)
 
-This Python project uses **PyOpenGL** to render a simple 2D scene of a house under rainfall.  
-You can control the background brightness and the rain’s slanting direction interactively using your keyboard.
+This project uses **Python** and **PyOpenGL** to render a charming 2D house scene with animated rainfall.  
+It’s interactive — you can **control the rain direction** and **adjust the background brightness** using your keyboard!
+
+---
+
+## 🎮 Controls
+
+| Key               | Action                                      |
+|-------------------|--------------------------------------------|
+| `w` key           | Lighten background (make it brighter)       |
+| `s` key           | Darken background (make it dimmer)          |
+| Left Arrow (←)    | Tilt rain direction more to the left        |
+| Right Arrow (→)   | Tilt rain direction more to the right       |
 
 ---
 
 ## ✨ Features
 
-✅ A cozy house with walls, roof, door, windows, and details  
-✅ Dynamic rain effect with droplets bending sideways  
-✅ Background that can be brightened or darkened interactively  
-✅ Large and small puddles drawn on the ground  
-✅ Keyboard controls to change rain direction and scene brightness
+✅ Hand-drawn style 2D house (walls, roof, windows, door)  
+✅ Animated rain with a natural falling + bending effect  
+✅ Interactive rain slant adjustment (simulate wind)  
+✅ Dynamic background brightness control  
+✅ Wet-looking grass and puddles on the ground
 
 ---
 
-## 🛠️ Requirements
+## 🛠 Requirements
 
 - Python 3.x  
 - **PyOpenGL**  
 - **NumPy**
 
-Install dependencies with:
+Install the required libraries:
 
 ```bash
 pip install PyOpenGL PyOpenGL_accelerate numpy
