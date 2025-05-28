@@ -15,12 +15,6 @@ You can control the background brightness and the rain’s slanting direction in
 
 ---
 
-## 🖼️ Demo
-
-> _(You can add a screenshot or GIF here after you run the app and capture it!)_
-
----
-
 ## 🛠️ Requirements
 
 - Python 3.x  
